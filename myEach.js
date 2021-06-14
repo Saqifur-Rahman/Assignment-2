@@ -1,5 +1,7 @@
+// array
 var arr = ["Apple", "Ball", "Cat", "Dog", "Egg"]
 
+// callback function
 function callbackFn(element) {
     console.log(element)
 }
