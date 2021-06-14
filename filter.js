@@ -23,7 +23,7 @@ const new_arr = ages.filter(callbackFn)
 console.log(new_arr)
 
 /*
-    My map() function : myFilter()
+    My filter() function : myFilter()
 
     Syntax:
     myFilter(array, callbackFn)

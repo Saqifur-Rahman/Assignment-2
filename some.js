@@ -22,7 +22,7 @@ console.log("Using some() : ")
 console.log(ages.some(callbackFn))
 
 /*
-    My map() function : mySome()
+    My some() function : mySome()
 
     Syntax:
     mySome(array, callbackFn)

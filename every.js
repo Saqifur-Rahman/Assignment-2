@@ -22,7 +22,7 @@ console.log("Using every() : ")
 console.log(ages.every(callbackFn))
 
 /*
-    My map() function : myEvery()
+    My every() function : myEvery()
 
     Syntax:
     myEvery(array, callbackFn)
