@@ -1,3 +1,5 @@
+## Users: Saqifur Rahman (Saqifur-Rahman)
+
 ## every()
 
 - Without using the native “Array.prototype.every” method of JavaScript, compose a function titled "myEvery" that will take in an array of 
