@@ -9,3 +9,9 @@ elements and execute a callback function on each of those elements.
 - Without using the native “Object.keys()” method of JavaScript, compose a function titled "grabKeys" that will take in an object and return 
 all of the keys of the key:value pairs of that object.
 - Resource : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
+
+## Object.values()
+
+- Without using the native "Object.values()" method of JavaScript, compose a function titled "grabValues" that will take in an object and 
+return all of the values of the key:value pairs of that object.
+- Resource : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values
